@@ -12,9 +12,9 @@ Minha linguagem predileta è Java, mas sempre aprender  outras tecnologias.
 
 
 ### Contatos:
-<a href=""><img width="48px" height= "48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" /></a>
-<a href=""><img width="48px" height= "48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
-<a href=""><img width="48px" height= "48px" src="https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-gmail-social-media-justicon-flat-justicon.png"/></a> 
+<a href="https://www.facebook.com/jorge.a.m.73/"><img width="48px" height= "48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" /></a>
+<a href="https://www.linkedin.com/in/jorge-ant%C3%B4nio-meireles-2a3b17211/"><img width="48px" height= "48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
+<a href="mailto:jorgeantoniomeireles@gmail.com?&subject=&cc=&bcc=&body="><img width="48px" height= "48px" src="https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-gmail-social-media-justicon-flat-justicon.png"/></a> 
 
 
 
