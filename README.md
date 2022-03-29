@@ -3,8 +3,8 @@
 ### Olá, Eu sou Jorge.  
 #### seja bem-vindo(a) ao meu perfil
 
-Sou estudante de Análise e Desenvolvimento de Sistemas na Anhaguera.
-Minha linguagem predileta è Java, mas sempre aprender  outras tecnologias.
+Sou estudante de Análise e Desenvolvimento de Sistemas na Anhaguera.<br>
+Minha linguagem predileta è Java, mas sempre é bom está aberto para aprender outras tecnologias.
 
 
 
